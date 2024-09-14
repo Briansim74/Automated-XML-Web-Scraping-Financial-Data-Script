@@ -8,8 +8,8 @@ Modular XML Coding Test
 
 <br/>Attached are the relevant files:
 
-1. Output.xml
-2. Q1.py
+1. Q1.xml
+2. q1.py
 
 For this question, I encountered a few problems on how to convert the csv into XML, while I could get the headers and labels out of the file, putting it into XML proved challenging to debug, due to the dual spreadsheet nature of the csv file. Q1.py shows the code for the conversion of csv to XML, and Output.xml shows the file that the CSV might look like potentially, if the problems are fixed without enough debugging.
 
@@ -18,7 +18,7 @@ For this question, I encountered a few problems on how to convert the csv into X
 <br/>Attached are the relevant files:
 
 1. CSV_Output.csv
-2. Q2.py
+2. q2.py
 
 I utilised Element Tree in Q2.py, which is a useful program for parsing XML data, and finding the correct ID of each data point in the XML file. However, I faced an issue whereby the data did not parse into a csv format as I had wanted to. This could be due to the outdated version of Element Tree that did not sync with Colab. With that said, I managed to convert the XML file into a CSV_Output.csv with the aid of an XML-to-CSV parser.
 
@@ -26,7 +26,7 @@ I utilised Element Tree in Q2.py, which is a useful program for parsing XML data
 
 Attached are the relevant files:
 
-1. Q3.py
+1. q3.py
 2. Security_Wise_Holdings.csv
 3. Cronjob 1 Hour Colab Automation
 4. BCP Utility Error.png
