@@ -1,0 +1,222 @@
+<CtrPtySpcfcData>
+	<CtrPty>
+		<Id>
+			<Lgl>
+				<Id>
+					<LEI>5493001Z1ORAWXIO8N07</LEI>
+				</Id>
+			</Lgl>
+		</Id>
+		<Id>
+			<Lgl>
+				<Id>
+					<LEI>5493001Z1ORAWXIO8N07</LEI>
+				</Id>
+			</Lgl>
+		</Id>
+		<Id>
+			<Lgl>
+				<Id>
+					<LEI>5493001Z1ORAWXIO8N07</LEI>
+				</Id>
+			</Lgl>
+		</Id>
+		<Id>
+			<Lgl>
+				<Id>
+					<LEI>5493001Z1ORAWXIO8N07</LEI>
+				</Id>
+			</Lgl>
+		</Id>
+		<Id>
+			<Lgl>
+				<Id>
+					<LEI>549300RH1PY4GCGZCX28</LEI>
+				</Id>
+			</Lgl>
+		</Id>
+		<Id>
+			<Lgl>
+				<Id>
+					<LEI>5493001Z1ORAWXIO8N07</LEI>
+				</Id>
+			</Lgl>
+		</Id>
+	</CtrPty>
+</CtrPtySpcfcData>
+<CtrPtySpcfcData>
+	<OthrCtrPty>
+		<IdTp>
+			<Lgl>
+				<Id>
+					<LEI>ZBUT11V806EZRVTWT807</LEI>
+				</Id>
+			</Lgl>
+		</IdTp>
+		<IdTp>
+			<Lgl>
+				<Id>
+					<LEI>ZBUT11V806EZRVTWT807</LEI>
+				</Id>
+			</Lgl>
+		</IdTp>
+		<IdTp>
+			<Lgl>
+				<Id>
+					<LEI>R0MUWSFPU8MPRO8K5P83</LEI>
+				</Id>
+			</Lgl>
+		</IdTp>
+		<IdTp>
+			<Lgl>
+				<Id>
+					<LEI>G5GSEF7VJP5I7OUK5573</LEI>
+				</Id>
+			</Lgl>
+		</IdTp>
+		<IdTp>
+			<Lgl>
+				<Id>
+					<LEI>R0MUWSFPU8MPRO8K5P83</LEI>
+				</Id>
+			</Lgl>
+		</IdTp>
+		<IdTp>
+			<Lgl>
+				<Id>
+					<LEI>ZBUT11V806EZRVTWT807</LEI>
+				</Id>
+			</Lgl>
+		</IdTp>
+	</OthrCtrPty>
+</CtrPtySpcfcData>
+
+
+
+
+
+
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <A>Counterparty 1</A>
+    <B>Counterparty 2</B>
+    <C>Direction of leg 1</C>
+    <D>Direction of leg 2</D>
+    <E>Unique transaction identifier (UTI)</E>
+    <F>Unique product identifier (UPI)</F>
+    <G>Spread currency of leg 1</G>
+    <H>Fixed rate of leg 2</H>
+    <I>Fixed rate of leg 2</I>
+    <J>Notional amount of the contract or leg 1</J>
+    <K>Notional currency of the contract or leg 1</K>
+    <L>Notional amount of leg 2</L>
+    <M>Notional currency of leg 2</M>
+    <N>Final contractual settlement date</N>
+    <O>Cleared</O>
+  </row>
+  <row>
+    <A>5493001Z1ORAWXIO8N07</A>
+    <B>ZBUT11V806EZRVTWT807</B>
+    <C>TAKE</C>
+    <D>MAKE</D>
+    <E>SW1000000LCH00122545084134956103</E>
+    <F>QZMF91K69MQ6</F>
+    <G>AUD</G>
+    <H></H>
+    <I>0.03647</I>
+    <J>1641750000.00</J>
+    <K>AUD</K>
+    <L>1641750000.00</L>
+    <M>AUD</M>
+    <N>2024-03-06</N>
+    <O>Y</O>
+  </row>
+  <row>
+    <A>5493001Z1ORAWXIO8N07</A>
+    <B>ZBUT11V806EZRVTWT807</B>
+    <C>TAKE</C>
+    <D>MAKE</D>
+    <E>SW1000000LCH00116680892127668233</E>
+    <F>QZMF91K69MQ6</F>
+    <G>USD</G>
+    <H></H>
+    <I>0.0272813</I>
+    <J>25647435.00</J>
+    <K>USD</K>
+    <L>25647435.00</L>
+    <M>USD</M>
+    <N>2024-06-15</N>
+    <O>Y</O>
+  </row>
+  <row>
+    <A>5493001Z1ORAWXIO8N07</A>
+    <B>R0MUWSFPU8MPRO8K5P83</B>
+    <C>MAKE</C>
+    <D>TAKE</D>
+    <E>SW1000000LCH00116169060127097391</E>
+    <F>QZMF91K69MQ6</F>
+    <G>CNH</G>
+    <H></H>
+    <I></I>
+    <J>206250000.00</J>
+    <K>CNH</K>
+    <L>28985000.00</L>
+    <M>USD</M>
+    <N>2025-09-09</N>
+    <O>N</O>
+  </row>
+  <row>
+    <A>5493001Z1ORAWXIO8N07</A>
+    <B>G5GSEF7VJP5I7OUK5573</B>
+    <C>MAKE</C>
+    <D>TAKE</D>
+    <E>SW1000000LCH00112051112121872550</E>
+    <F>QZMF91K69MQ6</F>
+    <G>JPY</G>
+    <H></H>
+    <I></I>
+    <J>8250000000.00</J>
+    <K>JPY</K>
+    <L>8250000000.00</L>
+    <M>JPY</M>
+    <N>2029-02-19</N>
+    <O>N</O>
+  </row>
+  <row>
+    <A>549300RH1PY4GCGZCX28</A>
+    <B>R0MUWSFPU8MPRO8K5P83</B>
+    <C>TAKE</C>
+    <D>MAKE</D>
+    <E>SW1000000LCH00117765124128998741</E>
+    <F>QZMF91K69MQ6</F>
+    <G>CNY</G>
+    <H></H>
+    <I>0.02444</I>
+    <J>450000000.00</J>
+    <K>CNY</K>
+    <L>450000000.00</L>
+    <M>CNY</M>
+    <N>2028-12-01</N>
+    <O>N</O>
+  </row>
+  <row>
+    <A>5493001Z1ORAWXIO8N07</A>
+    <B>ZBUT11V806EZRVTWT807</B>
+    <C>TAKE</C>
+    <D>MAKE</D>
+    <E>SW1000000LCH00121481840133624624</E>
+    <F>QZMF91K69MQ6</F>
+    <G>KRW</G>
+    <H></H>
+    <I>0.034328</I>
+    <J>8250000000.00</J>
+    <K>KRW</K>
+    <L>8250000000.00</L>
+    <M>KRW</M>
+    <N>2028-09-20</N>
+    <O>Y</O>
+  </row>
+</root>
