@@ -1,8 +1,8 @@
 # XML
 
-Modular XML Coding Test
+XML Financial Data Web Scraping Project
 
-<br/>In this notebook, there will be 3 main questions that will be addressed. For the 3 questions, I have utilised Google Colab as my IDE, and have done the programming on Colab. I have put in my thought processes for the issues that I have faced for all the questions during this coding test within this README file.
+<br/>In this notebook, there will be 3 main questions that will be addressed. For the 3 questions, I have utilised Google Colab as my IDE, and have done the programming on Colab. I have put in my thought processes for the issues that I have faced for all the questions during this project within this README file.
 
 <br/>For Question 1, it is to use Python to convert all rows in “Output_Values” into XML format, and name it "Output.xml".
 
