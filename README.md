@@ -28,7 +28,7 @@ https://briansim74-portfolio.webflow.io/projects/xml
 2. Selenium & ChromeDriver - Automation of XML Web Scraping
 3. Ubuntu Linux - Running the script
 4. Cron - Automation of script
-5. pyodbc (Python Open Database Connectivity) - To delete all old data from SQL Azure database using SQL Query
+5. pyodbc (Python Open Database Connectivity) - To delete all outdated data from SQL Azure database using SQL Query
 6. BCP (Bulk Copy Program) Utility - Rapid bulk insert updated data into SQL Azure database
 7. Microsoft Azure SQL Database - SQL Cloud database for updating financial data
 
@@ -44,7 +44,7 @@ First, I installed Selenium and Chromium Driver onto my Google Colab as well as 
 
 After that, I processed the relevant data into a Pandas DataFrame with relevant column names. I then exported the DataFrame into a CSV file to be stored in my Ubuntu Desktop.
 
-Using the pyodbc driver, I then connected to the Microsoft Azure SQL cloud database where the Security Wise Holdings SQL Table exists, and parsed a query to delete all old data from the table.
+Using the pyodbc driver, I then connected to the Microsoft Azure SQL cloud database where the Security Wise Holdings SQL Table exists, and parsed a query to delete all outdated data from the table.
 
 In the same script, I added a command to execute the BCP utility to bulk copy the updated CSV file into the Security Wise Holdings SQL Table in the Microsoft Azure SQL database, whereby the database would then be updated with the most recent CSV file.
 
