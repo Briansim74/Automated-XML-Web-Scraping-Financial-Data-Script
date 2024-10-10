@@ -44,11 +44,11 @@ I utilised Ubuntu Linux for the automation of the script. I started a new Cronjo
 
 Finally, the automation of the Web Scraping Script can be seen by the updating of the Azure SQL database every minute by quering the Security Wise Holdings SQL Table from the Microsoft Azure Portal.
 
-
-
-
-
-
+<br />
+<br />
+<br />
+<br />
+<br />
 
 # XML Financial Data Web Scraping Project
 
