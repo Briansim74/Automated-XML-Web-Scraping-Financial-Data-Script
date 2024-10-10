@@ -6,6 +6,8 @@ The financial data to be scraped would be the Security Wise Repo Market Summary,
 
 https://www.ccilindia.com/web/ccil/security-wise-repo-market-summary
 
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/Briansim74/Automated-XML-Web-Scraping-Financial-Data-Script/blob/main/670494f4dd286afb2b8ece52_GIF%20-%20Made%20with%20Clipchamp.gif.mp4)?raw=true)
+
 <br/><b>This script utilises the following programs & languages:</b>
 
 <b>Languages:</b>
@@ -22,7 +24,7 @@ https://www.ccilindia.com/web/ccil/security-wise-repo-market-summary
 6. BCP (Bulk Copy Program) Utility - Rapid bulk insert updated data into SQL Azure database
 7. Microsoft Azure SQL Database - SQL Cloud database for updating financial data
 
-<br/>The following files for reference for this script are:
+<br/><b>The following files for reference for this script are:</b>
 1. Security_Wise_Holdings_Script.ipynb
 2. cron.txt
 3. Security_Wise_Holdings.csv
