@@ -1,14 +1,18 @@
 # Automated XML Web Scraping Financial Data Script
 
-<br/>In this notebook, I will describe the processes of creating an Automated XML Financial Data Web Scraping Script.
+<br/>In this notebook, I will describe the processes of creating an Automated XML Financial Data Web Scraping Script.<br/>
 
 The financial data to be scraped would be the Security Wise Repo Market Summary, from The Clearing Corporation of India Limited.
 
 https://www.ccilindia.com/web/ccil/security-wise-repo-market-summary
 
+<br/>
+
 The automation of the script can be seen in my personal portfolio:
 
 https://briansim74-portfolio.webflow.io/projects/xml
+
+<br/>
 
 <br/><b>This script utilises the following programs & languages:</b>
 
