@@ -44,7 +44,7 @@ First, I installed Selenium and Chromium Driver onto my Google Colab as well as 
 
 After that, I processed the relevant data into a Pandas DataFrame with relevant column names. I then exported the DataFrame into a CSV file to be stored in my Ubuntu Desktop.
 
-Using pyodbc driver, I then connected to the Microsoft Azure SQL cloud database where the Security Wise Holdings SQL Table exists, and parsed a query to delete all old data from the table.
+Using the pyodbc driver, I then connected to the Microsoft Azure SQL cloud database where the Security Wise Holdings SQL Table exists, and parsed a query to delete all old data from the table.
 
 In the same script, I added a command to execute the BCP utility to bulk copy the updated CSV file into the Security Wise Holdings SQL Table in the Microsoft Azure SQL database, whereby the database would then be updated with the most recent CSV file.
 
