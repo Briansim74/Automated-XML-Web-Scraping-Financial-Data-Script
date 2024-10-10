@@ -23,8 +23,10 @@ Programs:
 7. Microsoft Azure SQL Database - SQL Cloud database for updating financial data
 
 <br/>The following files for reference for this script are:
-1. 
-2. Cron
+1. Security_Wise_Holdings_Script.ipynb
+2. cron.txt
+3. Security_Wise_Holdings.csv
+4. Security_Wise_Holdings_Query.sql
 
 <br/>Developing the script
 
