@@ -6,7 +6,9 @@ The financial data to be scraped would be the Security Wise Repo Market Summary,
 
 https://www.ccilindia.com/web/ccil/security-wise-repo-market-summary
 
-![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/Briansim74/Automated-XML-Web-Scraping-Financial-Data-Script/blob/main/670494f4dd286afb2b8ece52_GIF%20-%20Made%20with%20Clipchamp.gif.mp4))
+The automation of the script can be seen in my personal portfolio:
+
+https://briansim74-portfolio.webflow.io/projects/xml
 
 <br/><b>This script utilises the following programs & languages:</b>
 
