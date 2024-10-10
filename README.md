@@ -6,7 +6,7 @@ The financial data to be scraped would be the Security Wise Repo Market Summary,
 
 https://www.ccilindia.com/web/ccil/security-wise-repo-market-summary
 
-<br/>This script utilises the following programs & languages:
+<br/><b>This script utilises the following programs & languages:</b>
 
 Languages:
 1. Python
@@ -28,7 +28,7 @@ Programs:
 3. Security_Wise_Holdings.csv
 4. Security_Wise_Holdings_Query.sql
 
-<br/>Developing the script
+<br/><b>Developing the script</b>
 
 First, I installed Selenium and Chromium Driver onto my Google Colab as well as Ubuntu Virtual Machine. Selenium and ChromeDriver are plug-ins to automate the execution of parsing XML data from websites. Due to the dynamic nature of the table, a simple scraping of data into a dataframe was not possible. Here, I utilised the plug-ins to automate scraping each page of data, and also "clicking" onto each next page, all the way till the end of the ~84 pages. 
 
@@ -38,11 +38,15 @@ I then connected to the Microsoft Azure SQL cloud database where the Security Wi
 
 In the same script, I added a command to execute the BCP utility to bulk copy the updated CSV file into the Security Wise Holdings SQL Table in the Microsoft Azure SQL database, whereby the database would then be updated with the most recent CSV file.
 
-<br/>Running and Automation of the script
+<br/><b>Running and Automation of the script</b>
 
 I utilised Ubuntu Linux for the automation of the script. I started a new Cronjob on Crontab, an automatic task scheduler, whereby I set the Python script to run every minute, thus updating the Azure SQL database every minute with new data. 
 
 Finally, the automation of the Web Scraping Script can be seen by the updating of the Azure SQL database every minute by quering the Security Wise Holdings SQL Table from the Microsoft Azure Portal.
+
+
+
+
 
 
 
