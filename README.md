@@ -8,12 +8,12 @@ https://www.ccilindia.com/web/ccil/security-wise-repo-market-summary
 
 <br/><b>This script utilises the following programs & languages:</b>
 
-Languages:
+<b>Languages:</b>
 1. Python
 2. Bash
 3. SQL
 
-Programs:
+<b>Programs:</b>
 1. Google Colab - Developing the script
 2. Selenium & ChromeDriver - Automation of XML Web Scraping
 3. Ubuntu Linux - Running the script
