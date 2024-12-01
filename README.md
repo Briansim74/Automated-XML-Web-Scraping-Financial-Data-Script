@@ -37,6 +37,7 @@ https://briansim74-portfolio.webflow.io/projects/xml
 2. cron.txt
 3. Security_Wise_Holdings.csv
 4. Security_Wise_Holdings_Query.sql
+5. Security_Wise_Holdings.mp4
 
 <br/><b>Developing the script</b>
 
@@ -53,3 +54,5 @@ In the same script, I added a command to execute the BCP utility to bulk copy th
 I utilised Ubuntu Linux for the automation of the script. I started a new Cronjob on Crontab, an automatic task scheduler, whereby I set the Python script to run every minute, thus updating the Azure SQL database every minute with new data. 
 
 Finally, the automation of the Web Scraping Script can be seen by the updating of the Azure SQL database every minute by quering the Security Wise Holdings SQL Table from the Microsoft Azure Portal.
+
+Security_Wise_Holdings.mp4 shows the automation of the script.
